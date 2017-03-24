@@ -1,0 +1,11 @@
+C:\Users\visivel\Desktop\c#\Caixa2\Caixa2\bin\Debug\Caixa2.exe.config
+C:\Users\visivel\Desktop\c#\Caixa2\Caixa2\bin\Debug\Caixa2.exe
+C:\Users\visivel\Desktop\c#\Caixa2\Caixa2\bin\Debug\Caixa2.pdb
+C:\Users\visivel\Desktop\c#\Caixa2\Caixa2\obj\Debug\Caixa2.csprojResolveAssemblyReference.cache
+C:\Users\visivel\Desktop\c#\Caixa2\Caixa2\obj\Debug\Caixa2.Form1.resources
+C:\Users\visivel\Desktop\c#\Caixa2\Caixa2\obj\Debug\Caixa2.Properties.Resources.resources
+C:\Users\visivel\Desktop\c#\Caixa2\Caixa2\obj\Debug\Caixa2.csproj.GenerateResource.Cache
+C:\Users\visivel\Desktop\c#\Caixa2\Caixa2\obj\Debug\Caixa2.exe
+C:\Users\visivel\Desktop\c#\Caixa2\Caixa2\obj\Debug\Caixa2.pdb
+C:\Users\visivel\Desktop\c#\Caixa2\Caixa2\obj\Debug\Caixa2.FCliente.resources
+C:\Users\visivel\Desktop\c#\Caixa2\Caixa2\obj\Debug\Caixa2.FItem.resources
